@@ -1,0 +1,23 @@
+fullname = 'monic pradeep'
+Print(fullname)
+
+Print(fullname.title())
+
+Print(fullname.upper())
+Print(fullname.lower())
+
+firstname='monic'
+lastname='pradeep'
+
+#REq i want to get the full name
+
+# introduction to Fstrings **
+# General Syntax of an Fstring
+f"custom words,{placeholder1} {placeholder2}......{placeholdern}"
+fullname =f"{firstnmae}{lastname}
+print(fullname)
+
+#Req to appreciate monic
+message =f"keep up the good work,{fullname.title()}
+print(message)
+
